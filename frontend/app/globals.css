@@ -1,0 +1,118 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  background: #000;
+}
+
+body {
+  @apply bg-black text-neutral-100 antialiased;
+  background: #000;
+}
+
+/* pulsing REC dot */
+@keyframes recpulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.3; }
+}
+.rec-dot {
+  animation: recpulse 1.4s ease-in-out infinite;
+}
+
+/* waveform line "draws in" once when the first samples arrive. pathLength={1}
+   on the polyline normalizes the dash to the line's own length, so the reveal
+   is correct at any clip duration (no hardcoded dash length to under/overshoot). */
+.wf-draw {
+  stroke-dasharray: 1;
+  stroke-dashoffset: 1;
+  animation: wfDraw 0.9s ease-out forwards;
+}
+@keyframes wfDraw {
+  to { stroke-dashoffset: 0; }
+}
+
+/* data "streams in" reveal — used when the right column populates after play */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: none; }
+}
+.reveal {
+  animation: fadeInUp 0.45s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.orange-slice-waterfall {
+  pointer-events: none;
+  position: absolute;
+  inset: -12px 0 0;
+  z-index: 0;
+  overflow: hidden;
+  border-radius: 16px;
+}
+
+.orange-slice-waterfall::before {
+  content: none;
+}
+
+.orange-slice-waterfall--active {
+  animation: orangeWaterfallIn 0.22s ease-out both;
+}
+
+.orange-slice-waterfall--exit {
+  animation: orangeWaterfallOut 0.62s ease-in both;
+}
+
+.orange-slice-waterfall__slice {
+  position: absolute;
+  top: -140px;
+  display: grid;
+  place-items: center;
+  filter: drop-shadow(0 0 16px rgba(249, 115, 22, 0.32));
+  animation-name: orangeSquareFall;
+  animation-timing-function: cubic-bezier(0.22, 0.62, 0.26, 1);
+  animation-fill-mode: both;
+  animation-iteration-count: 1;
+  transform-origin: center;
+}
+
+.orange-slice-waterfall__slice img {
+  display: block;
+  height: auto;
+  width: 100%;
+  user-select: none;
+  transform: rotate(-8deg);
+}
+
+@keyframes orangeSquareFall {
+  0% {
+    opacity: 0;
+    transform: translate3d(0, -40px, 0) rotate(var(--orange-start-rotate, 0deg)) scale(0.84);
+  }
+  8% {
+    opacity: 1;
+  }
+  52% {
+    transform: translate3d(var(--orange-drift, 0px), 430px, 0) rotate(var(--orange-mid-rotate, 90deg)) scale(1);
+  }
+  76% {
+    opacity: 0.85;
+  }
+  100% {
+    opacity: 0;
+    transform: translate3d(calc(var(--orange-drift, 0px) * -0.35), 860px, 0) rotate(var(--orange-end-rotate, 180deg)) scale(0.96);
+  }
+}
+
+@keyframes orangeWaterfallIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes orangeWaterfallOut {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}

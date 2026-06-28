@@ -1,0 +1,19 @@
+# Secrets — never commit API keys
+.env
+.env.local
+
+# Pretrained-embedding cache (regenerate with extract_embeddings.py)
+embeddings/
+
+# External open-data downloads (MicroLens, etc.)
+datasets_external/cache/
+datasets_external/videos/
+
+# Generated feature tables + per-video extracts (regenerate from scripts)
+features_reels/
+
+# Locally-uploaded media catalog (large mp4s + machine-specific manifest)
+uploads_catalog/
+
+# Scratch / one-off test outputs
+_uptest/

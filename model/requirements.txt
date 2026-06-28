@@ -1,0 +1,12 @@
+anthropic>=0.40.0
+numpy
+pandas
+scikit-learn
+opencv-python
+
+# Pretrained-embedding features (extract_embeddings.py: SigLIP image + CLAP audio)
+# torch+transformers are heavy; only needed for the --embeddings / transfer path.
+torch>=2.2
+transformers>=4.40
+sentencepiece
+Pillow

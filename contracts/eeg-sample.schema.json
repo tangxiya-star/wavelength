@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "EegSample",
+  "description": "One EEG sample streamed by Devan's local Python WebSocket server, aligned to the playing clip.",
+  "type": "object",
+  "required": ["session_id", "video_id", "video_t_ms", "theta_beta", "interest_score"],
+  "properties": {
+    "session_id": { "type": "string", "format": "uuid" },
+    "video_id": { "type": "string", "format": "uuid", "description": "which clip is playing" },
+    "video_t_ms": { "type": "integer", "minimum": 0, "description": "ms offset into the clip (waveform x-axis / alignment key)" },
+    "theta_beta": { "type": "number", "description": "theta/beta band-power ratio" },
+    "interest_score": { "type": "number", "minimum": 0, "maximum": 1, "description": "0-1 derived from live EEG; the REAL measured attention. Waveform y-axis." },
+    "predict_score": { "type": "number", "minimum": 0, "maximum": 1, "description": "0-1 model-predicted attention for this moment (the curve the model expected). Optional; the live waveform overlays it under interest_score as the 'predict' layer." }
+  }
+}

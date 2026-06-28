@@ -1,0 +1,14 @@
+{
+  "name": "ig-reels-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Scrape Instagram creators' reels (link + view count) into one combined CSV, with human-like jitter.",
+  "scripts": {
+    "login": "node scrape.mjs --login",
+    "scrape": "node scrape.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.49.0"
+  }
+}

@@ -1,0 +1,420 @@
+{
+  "sessionId": "e10ffa8e-9e50-4b80-9fb0-a1ddbe002561",
+  "shortId": "e10ffa8e",
+  "feedPosition": 2,
+  "videoId": "openai_codex_sb2026",
+  "title": "OpenAI \u2014 Codex: You Can Just Build Things (Super Bowl 2026)",
+  "durationMs": 33601,
+  "watchMs": 33437,
+  "screenRecordingStartOffsetSec": 32.681,
+  "samples": [
+    {
+      "tMs": 0,
+      "interest": 0.9763,
+      "coverage": 1.0,
+      "quality": 0.8053
+    },
+    {
+      "tMs": 500,
+      "interest": 0.9777,
+      "coverage": 0.98,
+      "quality": 0.8572
+    },
+    {
+      "tMs": 1000,
+      "interest": 0.8679,
+      "coverage": 1.0,
+      "quality": 0.7043
+    },
+    {
+      "tMs": 1500,
+      "interest": 0.9826,
+      "coverage": 1.0,
+      "quality": 0.7102
+    },
+    {
+      "tMs": 2000,
+      "interest": 0.4138,
+      "coverage": 1.0,
+      "quality": 0.8434
+    },
+    {
+      "tMs": 2500,
+      "interest": 0.9974,
+      "coverage": 0.94,
+      "quality": 0.847
+    },
+    {
+      "tMs": 3000,
+      "interest": 0.9849,
+      "coverage": 1.0,
+      "quality": 0.8883
+    },
+    {
+      "tMs": 3500,
+      "interest": 1.0,
+      "coverage": 1.0,
+      "quality": 0.7658
+    },
+    {
+      "tMs": 4000,
+      "interest": 0.7523,
+      "coverage": 0.98,
+      "quality": 0.8591
+    },
+    {
+      "tMs": 4500,
+      "interest": 0.9504,
+      "coverage": 1.0,
+      "quality": 0.8513
+    },
+    {
+      "tMs": 5000,
+      "interest": 0.9076,
+      "coverage": 1.0,
+      "quality": 0.7361
+    },
+    {
+      "tMs": 5500,
+      "interest": 0.9879,
+      "coverage": 0.98,
+      "quality": 0.6756
+    },
+    {
+      "tMs": 6000,
+      "interest": 0.3001,
+      "coverage": 1.0,
+      "quality": 0.8473
+    },
+    {
+      "tMs": 6500,
+      "interest": 0.8521,
+      "coverage": 1.0,
+      "quality": 0.8752
+    },
+    {
+      "tMs": 7000,
+      "interest": 0.9645,
+      "coverage": 1.0,
+      "quality": 0.7483
+    },
+    {
+      "tMs": 7500,
+      "interest": 0.9996,
+      "coverage": 0.96,
+      "quality": 0.7718
+    },
+    {
+      "tMs": 8000,
+      "interest": 0.9881,
+      "coverage": 1.0,
+      "quality": 0.6622
+    },
+    {
+      "tMs": 8500,
+      "interest": 0.9738,
+      "coverage": 0.98,
+      "quality": 0.9095
+    },
+    {
+      "tMs": 9000,
+      "interest": 0.9116,
+      "coverage": 1.0,
+      "quality": 0.7446
+    },
+    {
+      "tMs": 9500,
+      "interest": 0.999,
+      "coverage": 1.0,
+      "quality": 0.69
+    },
+    {
+      "tMs": 10000,
+      "interest": 0.985,
+      "coverage": 0.98,
+      "quality": 0.8475
+    },
+    {
+      "tMs": 10500,
+      "interest": 0.9653,
+      "coverage": 1.0,
+      "quality": 0.8961
+    },
+    {
+      "tMs": 11000,
+      "interest": 0.9892,
+      "coverage": 1.0,
+      "quality": 0.7875
+    },
+    {
+      "tMs": 11500,
+      "interest": 0.9857,
+      "coverage": 0.98,
+      "quality": 0.6639
+    },
+    {
+      "tMs": 12000,
+      "interest": 0.9444,
+      "coverage": 1.0,
+      "quality": 0.8134
+    },
+    {
+      "tMs": 12500,
+      "interest": 0.996,
+      "coverage": 0.98,
+      "quality": 0.9116
+    },
+    {
+      "tMs": 13000,
+      "interest": 0.9266,
+      "coverage": 0.96,
+      "quality": 0.6276
+    },
+    {
+      "tMs": 13500,
+      "interest": 1.0,
+      "coverage": 1.0,
+      "quality": 0.8207
+    },
+    {
+      "tMs": 14000,
+      "interest": 0.9982,
+      "coverage": 0.96,
+      "quality": 0.8923
+    },
+    {
+      "tMs": 14500,
+      "interest": 0.9993,
+      "coverage": 1.0,
+      "quality": 0.7967
+    },
+    {
+      "tMs": 15000,
+      "interest": 0.9388,
+      "coverage": 1.0,
+      "quality": 0.7461
+    },
+    {
+      "tMs": 15500,
+      "interest": 0.9971,
+      "coverage": 0.96,
+      "quality": 0.8055
+    },
+    {
+      "tMs": 16000,
+      "interest": 0.9934,
+      "coverage": 1.0,
+      "quality": 0.7336
+    },
+    {
+      "tMs": 16500,
+      "interest": 0.8125,
+      "coverage": 1.0,
+      "quality": 0.8646
+    },
+    {
+      "tMs": 17000,
+      "interest": 0.926,
+      "coverage": 1.0,
+      "quality": 0.7097
+    },
+    {
+      "tMs": 17500,
+      "interest": 0.8895,
+      "coverage": 0.98,
+      "quality": 0.5889
+    },
+    {
+      "tMs": 18000,
+      "interest": 0.0807,
+      "coverage": 1.0,
+      "quality": 0.782
+    },
+    {
+      "tMs": 18500,
+      "interest": 0.6597,
+      "coverage": 1.0,
+      "quality": 0.8036
+    },
+    {
+      "tMs": 19000,
+      "interest": 0.7361,
+      "coverage": 1.0,
+      "quality": 0.671
+    },
+    {
+      "tMs": 19500,
+      "interest": 0.9928,
+      "coverage": 0.96,
+      "quality": 0.7792
+    },
+    {
+      "tMs": 20000,
+      "interest": 0.9828,
+      "coverage": 1.0,
+      "quality": 0.6943
+    },
+    {
+      "tMs": 20500,
+      "interest": 0.9904,
+      "coverage": 0.98,
+      "quality": 0.8046
+    },
+    {
+      "tMs": 21000,
+      "interest": 0.8308,
+      "coverage": 1.0,
+      "quality": 0.6779
+    },
+    {
+      "tMs": 21500,
+      "interest": 1.0,
+      "coverage": 1.0,
+      "quality": 0.8472
+    },
+    {
+      "tMs": 22000,
+      "interest": 0.0,
+      "coverage": 0.98,
+      "quality": 0.8765
+    },
+    {
+      "tMs": 22500,
+      "interest": 0.9018,
+      "coverage": 1.0,
+      "quality": 0.7377
+    },
+    {
+      "tMs": 23000,
+      "interest": 0.9777,
+      "coverage": 1.0,
+      "quality": 0.8066
+    },
+    {
+      "tMs": 23500,
+      "interest": 0.9982,
+      "coverage": 0.98,
+      "quality": 0.869
+    },
+    {
+      "tMs": 24000,
+      "interest": 0.9447,
+      "coverage": 1.0,
+      "quality": 0.7886
+    },
+    {
+      "tMs": 24500,
+      "interest": 0.9565,
+      "coverage": 1.0,
+      "quality": 0.7032
+    },
+    {
+      "tMs": 25000,
+      "interest": 0.6474,
+      "coverage": 1.0,
+      "quality": 0.808
+    },
+    {
+      "tMs": 25500,
+      "interest": 0.9196,
+      "coverage": 0.96,
+      "quality": 0.8164
+    },
+    {
+      "tMs": 26000,
+      "interest": 1.0,
+      "coverage": 1.0,
+      "quality": 0.9031
+    },
+    {
+      "tMs": 26500,
+      "interest": 0.9997,
+      "coverage": 0.98,
+      "quality": 0.6855
+    },
+    {
+      "tMs": 27000,
+      "interest": 0.9564,
+      "coverage": 0.98,
+      "quality": 0.8552
+    },
+    {
+      "tMs": 27500,
+      "interest": 0.9931,
+      "coverage": 1.0,
+      "quality": 0.8259
+    },
+    {
+      "tMs": 28000,
+      "interest": 0.426,
+      "coverage": 0.94,
+      "quality": 0.7572
+    },
+    {
+      "tMs": 28500,
+      "interest": 0.9606,
+      "coverage": 1.0,
+      "quality": 0.9711
+    },
+    {
+      "tMs": 29000,
+      "interest": 0.9982,
+      "coverage": 1.0,
+      "quality": 0.7067
+    },
+    {
+      "tMs": 29500,
+      "interest": 0.9833,
+      "coverage": 0.98,
+      "quality": 0.8386
+    },
+    {
+      "tMs": 30000,
+      "interest": 0.9942,
+      "coverage": 1.0,
+      "quality": 0.7848
+    },
+    {
+      "tMs": 30500,
+      "interest": 0.9991,
+      "coverage": 0.94,
+      "quality": 0.6715
+    },
+    {
+      "tMs": 31000,
+      "interest": 0.5635,
+      "coverage": 1.0,
+      "quality": 0.85
+    },
+    {
+      "tMs": 31500,
+      "interest": 0.9108,
+      "coverage": 1.0,
+      "quality": 0.8664
+    },
+    {
+      "tMs": 32000,
+      "interest": 0.9201,
+      "coverage": 1.0,
+      "quality": 0.704
+    },
+    {
+      "tMs": 32500,
+      "interest": 0.8807,
+      "coverage": 0.94,
+      "quality": 0.7536
+    },
+    {
+      "tMs": 33000,
+      "interest": 0.9861,
+      "coverage": 1.0,
+      "quality": 0.7863
+    },
+    {
+      "tMs": 33500,
+      "interest": 0.9855,
+      "coverage": 1.0,
+      "quality": 0.7302
+    }
+  ]
+}

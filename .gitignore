@@ -1,0 +1,122 @@
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+node_modules/
+.next/
+out/
+npm-debug.log*
+yarn-error.log*
+.vercel
+next-env.d.ts
+*.tsbuildinfo
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env
+.env*.local
+.easenv
+
+# typescript
+*.tsbuildinfo
+
+# python bytecode cache
+__pycache__/
+*.py[cod]
+*.pyc
+
+# claude-in-chrome / playwright MCP debug logs + page snapshots (ephemeral, local)
+.playwright-mcp/
+
+# generated native folders
+/ios
+/android
+
+# ig-reels-scraper (saved session is sensitive; CSV output is local data)
+scripts/ig-reels-scraper/ig-data/
+scripts/ig-reels-scraper/node_modules/
+
+# downloaded sponsor launch videos (large binaries, local only)
+sponsor-videos/
+
+# ── Hardware / EEG (LOCAL ONLY — never commit, never pushed) ──
+# Capture scripts, device & electrode notes, raw EEG recordings, and the
+# private hardware PRD live in hardware/ and stay on this machine only.
+# The app keeps only generic, hardware-agnostic sync plumbing (eegSyncId,
+# timestamps, export tables) in shared code. See hardware/README.md.
+hardware/
+
+# model pipeline outputs (scripts committed; built tables gitignored)
+model/datasets/
+model/out/
+model/features/
+model/features_reels/
+model/uploads_catalog/
+model/_uptest/
+
+# ── Merged from team main (Next.js frontend + Python backend + big media) ──
+# Next.js / Vercel (frontend/)
+.next/
+out/
+.vercel
+
+# python venvs / notebooks (backend/)
+.venv/
+venv/
+env/
+*.egg-info/
+.ipynb_checkpoints/
+
+# big media / model artifacts — keep bundled mock clips tracked
+*.mp4
+*.edf
+*.bdf
+!assets/videos/*.mp4
+# demo clips used by the web frontend MUST be committed so they play after a
+# fresh clone/pull on any machine (main now-playing clip + related-clip grid)
+!frontend/public/clips/**/*.mp4
+backend/model/checkpoints/
+backend/data/
+
+# editors
+.idea/
+.vscode/
+*.swp
+
+# ── Repo cleanup (local scratch / generated artifacts / data dumps) ──
+# HyperFrames demo-video generation working dir (~175M of assets + rendered mp4s)
+hyperframes/
+# Reels-tracker chrome extension (tangential tooling) + its zip artifact
+reels-tracker/
+reels-tracker.zip
+# Root-level data dumps / DB exports / manifests (unreferenced by code; some
+# contain absolute machine paths). Tracked data lives under data/ or contracts/.
+/*.csv
+# Unreferenced dev screenshots (root-level only; assets/*.png stays tracked)
+/feed-run-*.png
+/feed-study-localhost.png

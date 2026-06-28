@@ -1,0 +1,46 @@
+{
+  "name": "flowstate-testing",
+  "version": "1.0.0",
+  "main": "expo-router/entry",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "server": "npm --prefix server run dev",
+    "server:install": "npm --prefix server install",
+    "data:export": "node scripts/export-data.mjs",
+    "typecheck": "tsc --noEmit",
+    "videos:estimate": "scripts/download-videos.py",
+    "videos:select": "scripts/download-selected-videos.mjs",
+    "videos:import": "scripts/import-selected-videos-to-feed.py --clear-existing",
+    "videos:analyze": "scripts/analyze-selected-videos.py",
+    "build:ios:testflight": "eas build --platform ios --profile testflight --auto-submit",
+    "submit:ios:testflight": "eas submit --platform ios --profile testflight --latest"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^15.0.2",
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "expo": "~56.0.12",
+    "expo-constants": "~56.0.18",
+    "expo-crypto": "~56.0.4",
+    "expo-device": "~56.0.4",
+    "expo-haptics": "~56.0.3",
+    "expo-linking": "~56.0.14",
+    "expo-router": "~56.2.11",
+    "expo-status-bar": "~56.0.4",
+    "expo-video": "~56.1.4",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "react-native": "0.85.3",
+    "react-native-safe-area-context": "~5.7.0",
+    "react-native-screens": "4.25.2",
+    "react-native-svg": "15.15.4",
+    "react-native-web": "^0.21.2"
+  },
+  "devDependencies": {
+    "@types/react": "~19.2.2",
+    "typescript": "~6.0.3"
+  },
+  "private": true
+}

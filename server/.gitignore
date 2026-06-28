@@ -1,0 +1,5 @@
+# dependencies
+node_modules/
+
+# local SQLite database + WAL sidecar files (regenerated + reseeded on first run)
+data/

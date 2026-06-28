@@ -1,0 +1,4 @@
+.vercel
+
+# isolated build dir for the :5678 live-demo instance
+/.next-live/

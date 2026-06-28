@@ -1,0 +1,2474 @@
+[
+  {
+    "sessionId": "e10ffa8e-9e50-4b80-9fb0-a1ddbe002561",
+    "shortId": "e10ffa8e",
+    "accessCode": "DEMO",
+    "startedAt": "2026-06-28T06:20:35.237Z",
+    "endedAt": null,
+    "endReason": null,
+    "participantId": "5684d249-5899-44bf-a3cc-667647b781ad",
+    "exposureCount": 21,
+    "items": [
+      {
+        "exposureId": "0bb72164-2ba1-4bd4-ad00-279a720d95f1",
+        "sessionId": "e10ffa8e-9e50-4b80-9fb0-a1ddbe002561",
+        "participantId": "5684d249-5899-44bf-a3cc-667647b781ad",
+        "videoId": "DXz3KrEj-2t",
+        "slug": "holly_01_DXz3KrEj-2t",
+        "title": "alanna.studyhacks DXz3KrEj-2t",
+        "contentType": "instagram_reel",
+        "feedPosition": 0,
+        "startedAtMs": 1782627635255,
+        "endedAtMs": 1782627636732,
+        "dwellMs": 1477,
+        "watchMs": 909,
+        "pctWatched": 0.0426,
+        "durationMs": 21000,
+        "videoKey": "DXz3KrEj-2t.mp4",
+        "videoUrl": "/api/replay-video/DXz3KrEj-2t.mp4",
+        "interest": 0.9706,
+        "thetaBeta": 0.1543,
+        "coverage": 0.9953,
+        "quality": 0.8525,
+        "samples": [
+          {
+            "tMs": 0,
+            "interest": 0.9649,
+            "coverage": 0.98,
+            "quality": 0.9058
+          },
+          {
+            "tMs": 500,
+            "interest": 0.7349,
+            "coverage": 1.0,
+            "quality": 0.9177
+          },
+          {
+            "tMs": 1000,
+            "interest": 0.9769,
+            "coverage": 1.0,
+            "quality": 0.8018
+          }
+        ]
+      },
+      {
+        "exposureId": "fd072029-75bd-46c5-a6c7-ec36630d182d",
+        "sessionId": "e10ffa8e-9e50-4b80-9fb0-a1ddbe002561",
+        "participantId": "5684d249-5899-44bf-a3cc-667647b781ad",
+        "videoId": "DRkjNk9Em46",
+        "slug": "holly_02_DRkjNk9Em46",
+        "title": "airlearn.anna DRkjNk9Em46",
+        "contentType": "instagram_reel",
+        "feedPosition": 1,
+        "startedAtMs": 1782627636732,
+        "endedAtMs": 1782627652617,
+        "dwellMs": 15885,
+        "watchMs": 15446,
+        "pctWatched": 0.5081,
+        "durationMs": 30000,
+        "videoKey": "DRkjNk9Em46.mp4",
+        "videoUrl": "/api/replay-video/DRkjNk9Em46.mp4",
+        "interest": 0.0,
+        "thetaBeta": 15.2473,
+        "coverage": 0.9946,
+        "quality": 0.7554,
+        "samples": [
+          {
+            "tMs": 0,
+            "interest": 0.6249,
+            "coverage": 1.0,
+            "quality": 0.9703
+          },
+          {
+            "tMs": 500,
+            "interest": 0.0,
+            "coverage": 0.98,
+            "quality": 0.8493
+          },
+          {
+            "tMs": 1000,
+            "interest": 0.0,
+            "coverage": 0.98,
+            "quality": 0.7699
+          },
+          {
+            "tMs": 1500,
+            "interest": 0.9662,
+            "coverage": 1.0,
+            "quality": 0.8329
+          },
+          {
+            "tMs": 2000,
+            "interest": 0.0125,
+            "coverage": 1.0,
+            "quality": 0.8551
+          },
+          {
+            "tMs": 2500,
+            "interest": 0.8956,
+            "coverage": 1.0,
+            "quality": 0.7387
+          },
+          {
+            "tMs": 3000,
+            "interest": 0.9669,
+            "coverage": 1.0,
+            "quality": 0.7262
+          },
+          {
+            "tMs": 3500,
+            "interest": 0.9627,
+            "coverage": 0.98,
+            "quality": 0.8519
+          },
+          {
+            "tMs": 4000,
+            "interest": 0.9755,
+            "coverage": 1.0,
+            "quality": 0.798
+          },
+          {
+            "tMs": 4500,
+            "interest": 0.0,
+            "coverage": 0.98,
+            "quality": 0.7819
+          },
+          {
+            "tMs": 5000,
+            "interest": 0.9925,
+            "coverage": 1.0,
+            "quality": 0.82
+          },
+          {
+            "tMs": 5500,
+            "interest": 0.5471,
+            "coverage": 1.0,
+            "quality": 0.7893
+          },
+          {
+            "tMs": 6000,
+            "interest": 0.4476,
+            "coverage": 1.0,
+            "quality": 0.8439
+          },
+          {
+            "tMs": 6500,
+            "interest": 0.0,
+            "coverage": 1.0,
+            "quality": 0.9185
+          },
+          {
+            "tMs": 7000,
+            "interest": 0.8634,
+            "coverage": 1.0,
+            "quality": 0.7381
+          },
+          {
+            "tMs": 7500,
+            "interest": 0.3571,
+            "coverage": 1.0,
+            "quality": 0.8066
+          },
+          {
+            "tMs": 8000,
+            "interest": 0.4459,
+            "coverage": 1.0,
+            "quality": 0.8447
+          },
+          {
+            "tMs": 8500,
+            "interest": 0.7318,
+            "coverage": 0.98,
+            "quality": 0.9068
+          },
+          {
+            "tMs": 9000,
+            "interest": 0.938,
+            "coverage": 1.0,
+            "quality": 0.7646
+          },
+          {
+            "tMs": 9500,
+            "interest": 1.0,
+            "coverage": 1.0,
+            "quality": 0.7937
+          },
+          {
+            "tMs": 10000,
+            "interest": 0.9566,
+            "coverage": 0.98,
+            "quality": 0.8681
+          },
+          {
+            "tMs": 10500,
+            "interest": 0.1683,
+            "coverage": 1.0,
+            "quality": 0.9303
+          },
+          {
+            "tMs": 11000,
+            "interest": 0.6817,
+            "coverage": 1.0,
+            "quality": 0.4881
+          },
+          {
+            "tMs": 11500,
+            "interest": 0.0,
+            "coverage": 0.98,
+            "quality": 0.7657
+          },
+          {
+            "tMs": 12000,
+            "interest": 0.9925,
+            "coverage": 1.0,
+            "quality": 0.8452
+          },
+          {
+            "tMs": 12500,
+            "interest": 0.9966,
+            "coverage": 1.0,
+            "quality": 0.9517
+          },
+          {
+            "tMs": 13000,
+            "interest": 0.0,
+            "coverage": 0.98,
+            "quality": 0.8415
+          },
+          {
+            "tMs": 13500,
+            "interest": 0.9167,
+            "coverage": 0.98,
+            "quality": 0.7986
+          },
+          {
+            "tMs": 14000,
+            "interest": 0.9954,
+            "coverage": 1.0,
+            "quality": 0.8538
+          },
+          {
+            "tMs": 14500,
+            "interest": 0.4018,
+            "coverage": 0.96,
+            "quality": 0.8707
+          },
+          {
+            "tMs": 15000,
+            "interest": 1.0,
+            "coverage": 1.0,
+            "quality": 0.8376
+          },
+          {
+            "tMs": 15500,
+            "interest": 0.942,
+            "coverage": 0.98,
+            "quality": 0.8301
+          }
+        ]
+      },
+      {
+        "exposureId": "670ba261-5bb3-4159-aa64-ca172e7300e5",
+        "sessionId": "e10ffa8e-9e50-4b80-9fb0-a1ddbe002561",
+        "participantId": "5684d249-5899-44bf-a3cc-667647b781ad",
+        "videoId": "openai_codex_sb2026",
+        "slug": "holly_03_openai_codex_sb2026",
+        "title": "OpenAI \u2014 Codex: You Can Just Build Things (Super Bowl 2026)",
+        "contentType": "b2b",
+        "feedPosition": 2,
+        "startedAtMs": 1782627652618,
+        "endedAtMs": 1782627686219,
+        "dwellMs": 33601,
+        "watchMs": 33437,
+        "pctWatched": 0.5562,
+        "durationMs": 60000,
+        "videoKey": "OpenAI_Codex_SB2026.mp4",
+        "videoUrl": "/api/replay-video/OpenAI_Codex_SB2026.mp4",
+        "interest": 0.9436,
+        "thetaBeta": 0.2322,
+        "coverage": 0.9946,
+        "quality": 0.7676,
+        "samples": [
+          {
+            "tMs": 0,
+            "interest": 0.9763,
+            "coverage": 1.0,
+            "quality": 0.8053
+          },
+          {
+            "tMs": 500,
+            "interest": 0.9777,
+            "coverage": 0.98,
+            "quality": 0.8572
+          },
+          {
+            "tMs": 1000,
+            "interest": 0.8679,
+            "coverage": 1.0,
+            "quality": 0.7043
+          },
+          {
+            "tMs": 1500,
+            "interest": 0.9826,
+            "coverage": 1.0,
+            "quality": 0.7102
+          },
+          {
+            "tMs": 2000,
+            "interest": 0.4138,
+            "coverage": 1.0,
+            "quality": 0.8434
+          },
+          {
+            "tMs": 2500,
+            "interest": 0.9974,
+            "coverage": 0.94,
+            "quality": 0.847
+          },
+          {
+            "tMs": 3000,
+            "interest": 0.9849,
+            "coverage": 1.0,
+            "quality": 0.8883
+          },
+          {
+            "tMs": 3500,
+            "interest": 1.0,
+            "coverage": 1.0,
+            "quality": 0.7658
+          },
+          {
+            "tMs": 4000,
+            "interest": 0.7523,
+            "coverage": 0.98,
+            "quality": 0.8591
+          },
+          {
+            "tMs": 4500,
+            "interest": 0.9504,
+            "coverage": 1.0,
+            "quality": 0.8513
+          },
+          {
+            "tMs": 5000,
+            "interest": 0.9076,
+            "coverage": 1.0,
+            "quality": 0.7361
+          },
+          {
+            "tMs": 5500,
+            "interest": 0.9879,
+            "coverage": 0.98,
+            "quality": 0.6756
+          },
+          {
+            "tMs": 6000,
+            "interest": 0.3001,
+            "coverage": 1.0,
+            "quality": 0.8473
+          },
+          {
+            "tMs": 6500,
+            "interest": 0.8521,
+            "coverage": 1.0,
+            "quality": 0.8752
+          },
+          {
+            "tMs": 7000,
+            "interest": 0.9645,
+            "coverage": 1.0,
+            "quality": 0.7483
+          },
+          {
+            "tMs": 7500,
+            "interest": 0.9996,
+            "coverage": 0.96,
+            "quality": 0.7718
+          },
+          {
+            "tMs": 8000,
+            "interest": 0.9881,
+            "coverage": 1.0,
+            "quality": 0.6622
+          },
+          {
+            "tMs": 8500,
+            "interest": 0.9738,
+            "coverage": 0.98,
+            "quality": 0.9095
+          },
+          {
+            "tMs": 9000,
+            "interest": 0.9116,
+            "coverage": 1.0,
+            "quality": 0.7446
+          },
+          {
+            "tMs": 9500,
+            "interest": 0.999,
+            "coverage": 1.0,
+            "quality": 0.69
+          },
+          {
+            "tMs": 10000,
+            "interest": 0.985,
+            "coverage": 0.98,
+            "quality": 0.8475
+          },
+          {
+            "tMs": 10500,
+            "interest": 0.9653,
+            "coverage": 1.0,
+            "quality": 0.8961
+          },
+          {
+            "tMs": 11000,
+            "interest": 0.9892,
+            "coverage": 1.0,
+            "quality": 0.7875
+          },
+          {
+            "tMs": 11500,
+            "interest": 0.9857,
+            "coverage": 0.98,
+            "quality": 0.6639
+          },
+          {
+            "tMs": 12000,
+            "interest": 0.9444,
+            "coverage": 1.0,
+            "quality": 0.8134
+          },
+          {
+            "tMs": 12500,
+            "interest": 0.996,
+            "coverage": 0.98,
+            "quality": 0.9116
+          },
+          {
+            "tMs": 13000,
+            "interest": 0.9266,
+            "coverage": 0.96,
+            "quality": 0.6276
+          },
+          {
+            "tMs": 13500,
+            "interest": 1.0,
+            "coverage": 1.0,
+            "quality": 0.8207
+          },
+          {
+            "tMs": 14000,
+            "interest": 0.9982,
+            "coverage": 0.96,
+            "quality": 0.8923
+          },
+          {
+            "tMs": 14500,
+            "interest": 0.9993,
+            "coverage": 1.0,
+            "quality": 0.7967
+          },
+          {
+            "tMs": 15000,
+            "interest": 0.9388,
+            "coverage": 1.0,
+            "quality": 0.7461
+          },
+          {
+            "tMs": 15500,
+            "interest": 0.9971,
+            "coverage": 0.96,
+            "quality": 0.8055
+          },
+          {
+            "tMs": 16000,
+            "interest": 0.9934,
+            "coverage": 1.0,
+            "quality": 0.7336
+          },
+          {
+            "tMs": 16500,
+            "interest": 0.8125,
+            "coverage": 1.0,
+            "quality": 0.8646
+          },
+          {
+            "tMs": 17000,
+            "interest": 0.926,
+            "coverage": 1.0,
+            "quality": 0.7097
+          },
+          {
+            "tMs": 17500,
+            "interest": 0.8895,
+            "coverage": 0.98,
+            "quality": 0.5889
+          },
+          {
+            "tMs": 18000,
+            "interest": 0.0807,
+            "coverage": 1.0,
+            "quality": 0.782
+          },
+          {
+            "tMs": 18500,
+            "interest": 0.6597,
+            "coverage": 1.0,
+            "quality": 0.8036
+          },
+          {
+            "tMs": 19000,
+            "interest": 0.7361,
+            "coverage": 1.0,
+            "quality": 0.671
+          },
+          {
+            "tMs": 19500,
+            "interest": 0.9928,
+            "coverage": 0.96,
+            "quality": 0.7792
+          },
+          {
+            "tMs": 20000,
+            "interest": 0.9828,
+            "coverage": 1.0,
+            "quality": 0.6943
+          },
+          {
+            "tMs": 20500,
+            "interest": 0.9904,
+            "coverage": 0.98,
+            "quality": 0.8046
+          },
+          {
+            "tMs": 21000,
+            "interest": 0.8308,
+            "coverage": 1.0,
+            "quality": 0.6779
+          },
+          {
+            "tMs": 21500,
+            "interest": 1.0,
+            "coverage": 1.0,
+            "quality": 0.8472
+          },
+          {
+            "tMs": 22000,
+            "interest": 0.0,
+            "coverage": 0.98,
+            "quality": 0.8765
+          },
+          {
+            "tMs": 22500,
+            "interest": 0.9018,
+            "coverage": 1.0,
+            "quality": 0.7377
+          },
+          {
+            "tMs": 23000,
+            "interest": 0.9777,
+            "coverage": 1.0,
+            "quality": 0.8066
+          },
+          {
+            "tMs": 23500,
+            "interest": 0.9982,
+            "coverage": 0.98,
+            "quality": 0.869
+          },
+          {
+            "tMs": 24000,
+            "interest": 0.9447,
+            "coverage": 1.0,
+            "quality": 0.7886
+          },
+          {
+            "tMs": 24500,
+            "interest": 0.9565,
+            "coverage": 1.0,
+            "quality": 0.7032
+          },
+          {
+            "tMs": 25000,
+            "interest": 0.6474,
+            "coverage": 1.0,
+            "quality": 0.808
+          },
+          {
+            "tMs": 25500,
+            "interest": 0.9196,
+            "coverage": 0.96,
+            "quality": 0.8164
+          },
+          {
+            "tMs": 26000,
+            "interest": 1.0,
+            "coverage": 1.0,
+            "quality": 0.9031
+          },
+          {
+            "tMs": 26500,
+            "interest": 0.9997,
+            "coverage": 0.98,
+            "quality": 0.6855
+          },
+          {
+            "tMs": 27000,
+            "interest": 0.9564,
+            "coverage": 0.98,
+            "quality": 0.8552
+          },
+          {
+            "tMs": 27500,
+            "interest": 0.9931,
+            "coverage": 1.0,
+            "quality": 0.8259
+          },
+          {
+            "tMs": 28000,
+            "interest": 0.426,
+            "coverage": 0.94,
+            "quality": 0.7572
+          },
+          {
+            "tMs": 28500,
+            "interest": 0.9606,
+            "coverage": 1.0,
+            "quality": 0.9711
+          },
+          {
+            "tMs": 29000,
+            "interest": 0.9982,
+            "coverage": 1.0,
+            "quality": 0.7067
+          },
+          {
+            "tMs": 29500,
+            "interest": 0.9833,
+            "coverage": 0.98,
+            "quality": 0.8386
+          },
+          {
+            "tMs": 30000,
+            "interest": 0.9942,
+            "coverage": 1.0,
+            "quality": 0.7848
+          },
+          {
+            "tMs": 30500,
+            "interest": 0.9991,
+            "coverage": 0.94,
+            "quality": 0.6715
+          },
+          {
+            "tMs": 31000,
+            "interest": 0.5635,
+            "coverage": 1.0,
+            "quality": 0.85
+          },
+          {
+            "tMs": 31500,
+            "interest": 0.9108,
+            "coverage": 1.0,
+            "quality": 0.8664
+          },
+          {
+            "tMs": 32000,
+            "interest": 0.9201,
+            "coverage": 1.0,
+            "quality": 0.704
+          },
+          {
+            "tMs": 32500,
+            "interest": 0.8807,
+            "coverage": 0.94,
+            "quality": 0.7536
+          },
+          {
+            "tMs": 33000,
+            "interest": 0.9861,
+            "coverage": 1.0,
+            "quality": 0.7863
+          },
+          {
+            "tMs": 33500,
+            "interest": 0.9855,
+            "coverage": 1.0,
+            "quality": 0.7302
+          }
+        ]
+      },
+      {
+        "exposureId": "a1bda018-a949-4296-83fc-0f40be7e4f99",
+        "sessionId": "e10ffa8e-9e50-4b80-9fb0-a1ddbe002561",
+        "participantId": "5684d249-5899-44bf-a3cc-667647b781ad",
+        "videoId": "7569336928856755487",
+        "slug": "holly_04_7569336928856755487",
+        "title": "tiktok 7569336928856755487",
+        "contentType": "tiktok_video",
+        "feedPosition": 3,
+        "startedAtMs": 1782627686220,
+        "endedAtMs": 1782627692941,
+        "dwellMs": 6721,
+        "watchMs": 6435,
+        "pctWatched": 0.8772,
+        "durationMs": 7000,
+        "videoKey": "7569336928856755487.mp4",
+        "videoUrl": "/api/replay-video/7569336928856755487.mp4",
+        "interest": 0.8024,
+        "thetaBeta": 0.6405,
+        "coverage": 0.9939,
+        "quality": 0.7848,
+        "samples": [
+          {
+            "tMs": 0,
+            "interest": 0.9402,
+            "coverage": 1.0,
+            "quality": 0.7827
+          },
+          {
+            "tMs": 500,
+            "interest": 0.9947,
+            "coverage": 0.96,
+            "quality": 0.699
+          },
+          {
+            "tMs": 1000,
+            "interest": 0.9993,
+            "coverage": 1.0,
+            "quality": 0.8913
+          },
+          {
+            "tMs": 1500,
+            "interest": 0.9487,
+            "coverage": 1.0,
+            "quality": 0.8264
+          },
+          {
+            "tMs": 2000,
+            "interest": 0.9721,
+            "coverage": 1.0,
+            "quality": 0.7095
+          },
+          {
+            "tMs": 2500,
+            "interest": 0.9963,
+            "coverage": 0.98,
+            "quality": 0.8368
+          },
+          {
+            "tMs": 3000,
+            "interest": 0.9886,
+            "coverage": 0.98,
+            "quality": 0.8113
+          },
+          {
+            "tMs": 3500,
+            "interest": 0.9988,
+            "coverage": 1.0,
+            "quality": 0.7912
+          },
+          {
+            "tMs": 4000,
+            "interest": 1.0,
+            "coverage": 0.96,
+            "quality": 0.7974
+          },
+          {
+            "tMs": 4500,
+            "interest": 0.9561,
+            "coverage": 1.0,
+            "quality": 0.743
+          },
+          {
+            "tMs": 5000,
+            "interest": 0.8432,
+            "coverage": 0.96,
+            "quality": 0.8222
+          },
+          {
+            "tMs": 5500,
+            "interest": 0.9534,
+            "coverage": 0.98,
+            "quality": 0.848
+          },
+          {
+            "tMs": 6000,
+            "interest": 1.0,
+            "coverage": 1.0,
+            "quality": 0.9116
+          },
+          {
+            "tMs": 6500,
+            "interest": 0.9844,
+            "coverage": 1.0,
+            "quality": 0.7408
+          }
+        ]
+      },
+      {
+        "exposureId": "13529613-3127-479a-b537-453a7d27f26e",
+        "sessionId": "e10ffa8e-9e50-4b80-9fb0-a1ddbe002561",
+        "participantId": "5684d249-5899-44bf-a3cc-667647b781ad",
+        "videoId": "DVtkFS0AgDD",
+        "slug": "holly_05_DVtkFS0AgDD",
+        "title": "jess.studytips DVtkFS0AgDD",
+        "contentType": "instagram_reel",
+        "feedPosition": 4,
+        "startedAtMs": 1782627692944,
+        "endedAtMs": 1782627695654,
+        "dwellMs": 2710,
+        "watchMs": 2443,
+        "pctWatched": 0.3639,
+        "durationMs": 6000,
+        "videoKey": "DVtkFS0AgDD.mp4",
+        "videoUrl": "/api/replay-video/DVtkFS0AgDD.mp4",
+        "interest": 0.9466,
+        "thetaBeta": 0.2236,
+        "coverage": 0.9926,
+        "quality": 0.7895,
+        "samples": [
+          {
+            "tMs": 0,
+            "interest": 0.5283,
+            "coverage": 0.98,
+            "quality": 0.7664
+          },
+          {
+            "tMs": 500,
+            "interest": 0.8365,
+            "coverage": 1.0,
+            "quality": 0.9405
+          },
+          {
+            "tMs": 1000,
+            "interest": 0.9448,
+            "coverage": 1.0,
+            "quality": 0.8299
+          },
+          {
+            "tMs": 1500,
+            "interest": 0.9994,
+            "coverage": 1.0,
+            "quality": 0.7322
+          },
+          {
+            "tMs": 2000,
+            "interest": 0.2312,
+            "coverage": 1.0,
+            "quality": 0.7979
+          },
+          {
+            "tMs": 2500,
+            "interest": 0.5212,
+            "coverage": 0.98,
+            "quality": 0.8832
+          }
+        ]
+      },
+      {
+        "exposureId": "320bfb19-c2b1-47bf-aa2d-2c0b439b394d",
+        "sessionId": "e10ffa8e-9e50-4b80-9fb0-a1ddbe002561",
+        "participantId": "5684d249-5899-44bf-a3cc-667647b781ad",
+        "videoId": "DWeTKqOE-OF",
+        "slug": "holly_06_DWeTKqOE-OF",
+        "title": "dean.studytips DWeTKqOE-OF",
+        "contentType": "instagram_reel",
+        "feedPosition": 5,
+        "startedAtMs": 1782627695655,
+        "endedAtMs": 1782627702063,
+        "dwellMs": 6408,
+        "watchMs": 5940,
+        "pctWatched": 0.1656,
+        "durationMs": 35000,
+        "videoKey": "DWeTKqOE-OF.mp4",
+        "videoUrl": "/api/replay-video/DWeTKqOE-OF.mp4",
+        "interest": 0.8973,
+        "thetaBeta": 0.3662,
+        "coverage": 0.9972,
+        "quality": 0.8162,
+        "samples": [
+          {
+            "tMs": 0,
+            "interest": 0.9967,
+            "coverage": 1.0,
+            "quality": 0.7536
+          },
+          {
+            "tMs": 500,
+            "interest": 0.8659,
+            "coverage": 0.96,
+            "quality": 0.837
+          },
+          {
+            "tMs": 1000,
+            "interest": 0.6336,
+            "coverage": 1.0,
+            "quality": 0.8327
+          },
+          {
+            "tMs": 1500,
+            "interest": 0.9987,
+            "coverage": 1.0,
+            "quality": 0.8577
+          },
+          {
+            "tMs": 2000,
+            "interest": 0.8503,
+            "coverage": 1.0,
+            "quality": 0.8554
+          },
+          {
+            "tMs": 2500,
+            "interest": 0.9823,
+            "coverage": 0.98,
+            "quality": 0.7831
+          },
+          {
+            "tMs": 3000,
+            "interest": 0.6364,
+            "coverage": 1.0,
+            "quality": 0.7573
+          },
+          {
+            "tMs": 3500,
+            "interest": 0.998,
+            "coverage": 1.0,
+            "quality": 0.8581
+          },
+          {
+            "tMs": 4000,
+            "interest": 0.98,
+            "coverage": 1.0,
+            "quality": 0.8378
+          },
+          {
+            "tMs": 4500,
+            "interest": 0.8412,
+            "coverage": 0.96,
+            "quality": 0.8073
+          },
+          {
+            "tMs": 5000,
+            "interest": 0.9912,
+            "coverage": 1.0,
+            "quality": 0.8057
+          },
+          {
+            "tMs": 5500,
+            "interest": 0.9508,
+            "coverage": 0.98,
+            "quality": 0.8772
+          },
+          {
+            "tMs": 6000,
+            "interest": 0.993,
+            "coverage": 1.0,
+            "quality": 0.8133
+          }
+        ]
+      },
+      {
+        "exposureId": "c42f0d12-ebd0-412b-9198-933305a87e61",
+        "sessionId": "e10ffa8e-9e50-4b80-9fb0-a1ddbe002561",
+        "participantId": "5684d249-5899-44bf-a3cc-667647b781ad",
+        "videoId": "7556429817785142541",
+        "slug": "holly_07_7556429817785142541",
+        "title": "tiktok 7556429817785142541",
+        "contentType": "tiktok_video",
+        "feedPosition": 6,
+        "startedAtMs": 1782627702064,
+        "endedAtMs": 1782627705863,
+        "dwellMs": 3799,
+        "watchMs": 3450,
+        "pctWatched": 0.4358,
+        "durationMs": 7000,
+        "videoKey": "7556429817785142541.mp4",
+        "videoUrl": "/api/replay-video/7556429817785142541.mp4",
+        "interest": 0.8745,
+        "thetaBeta": 0.4321,
+        "coverage": 0.995,
+        "quality": 0.8343,
+        "samples": [
+          {
+            "tMs": 0,
+            "interest": 0.9335,
+            "coverage": 0.98,
+            "quality": 0.8668
+          },
+          {
+            "tMs": 500,
+            "interest": 0.0,
+            "coverage": 0.98,
+            "quality": 0.7318
+          },
+          {
+            "tMs": 1000,
+            "interest": 0.9919,
+            "coverage": 1.0,
+            "quality": 0.7557
+          },
+          {
+            "tMs": 1500,
+            "interest": 0.1829,
+            "coverage": 1.0,
+            "quality": 0.8497
+          },
+          {
+            "tMs": 2000,
+            "interest": 0.7123,
+            "coverage": 0.98,
+            "quality": 0.9145
+          },
+          {
+            "tMs": 2500,
+            "interest": 0.4398,
+            "coverage": 0.92,
+            "quality": 0.8073
+          },
+          {
+            "tMs": 3000,
+            "interest": 0.9861,
+            "coverage": 1.0,
+            "quality": 0.6437
+          },
+          {
+            "tMs": 3500,
+            "interest": 0.71,
+            "coverage": 0.98,
+            "quality": 0.8828
+          }
+        ]
+      },
+      {
+        "exposureId": "4ce7491d-f984-4a99-a1a1-e762420e9fc7",
+        "sessionId": "e10ffa8e-9e50-4b80-9fb0-a1ddbe002561",
+        "participantId": "5684d249-5899-44bf-a3cc-667647b781ad",
+        "videoId": "7576759964224474423",
+        "slug": "holly_08_7576759964224474423",
+        "title": "tiktok 7576759964224474423",
+        "contentType": "tiktok_video",
+        "feedPosition": 7,
+        "startedAtMs": 1782627705866,
+        "endedAtMs": 1782627708439,
+        "dwellMs": 2573,
+        "watchMs": 2435,
+        "pctWatched": 0.3668,
+        "durationMs": 6000,
+        "videoKey": "7576759964224474423.mp4",
+        "videoUrl": "/api/replay-video/7576759964224474423.mp4",
+        "interest": 0.9189,
+        "thetaBeta": 0.3036,
+        "coverage": 0.9949,
+        "quality": 0.8332,
+        "samples": [
+          {
+            "tMs": 0,
+            "interest": 0.9293,
+            "coverage": 0.98,
+            "quality": 0.8828
+          },
+          {
+            "tMs": 500,
+            "interest": 0.9981,
+            "coverage": 0.98,
+            "quality": 0.7429
+          },
+          {
+            "tMs": 1000,
+            "interest": 0.9882,
+            "coverage": 1.0,
+            "quality": 0.8543
+          },
+          {
+            "tMs": 1500,
+            "interest": 0.9874,
+            "coverage": 0.98,
+            "quality": 0.7083
+          },
+          {
+            "tMs": 2000,
+            "interest": 0.6224,
+            "coverage": 1.0,
+            "quality": 0.8417
+          },
+          {
+            "tMs": 2500,
+            "interest": 0.9807,
+            "coverage": 0.94,
+            "quality": 0.8019
+          }
+        ]
+      },
+      {
+        "exposureId": "d98a3f9a-d738-4d20-ba2d-d30b4f645da3",
+        "sessionId": "e10ffa8e-9e50-4b80-9fb0-a1ddbe002561",
+        "participantId": "5684d249-5899-44bf-a3cc-667647b781ad",
+        "videoId": "7647415311112867095",
+        "slug": "holly_09_7647415311112867095",
+        "title": "fruitstorys677 \u2014 Fruit island ep.1",
+        "contentType": "tiktok_video",
+        "feedPosition": 8,
+        "startedAtMs": 1782627708440,
+        "endedAtMs": 1782627743681,
+        "dwellMs": 35241,
+        "watchMs": 34945,
+        "pctWatched": 0.6704,
+        "durationMs": 52000,
+        "videoKey": "7647415311112867095.mp4",
+        "videoUrl": "/api/replay-video/7647415311112867095.mp4",
+        "interest": 0.9611,
+        "thetaBeta": 0.1817,
+        "coverage": 0.9946,
+        "quality": 0.7885,
+        "samples": [
+          {
+            "tMs": 0,
+            "interest": 0.9264,
+            "coverage": 1.0,
+            "quality": 0.7317
+          },
+          {
+            "tMs": 500,
+            "interest": 0.9624,
+            "coverage": 0.96,
+            "quality": 0.9901
+          },
+          {
+            "tMs": 1000,
+            "interest": 0.9879,
+            "coverage": 1.0,
+            "quality": 0.7612
+          },
+          {
+            "tMs": 1500,
+            "interest": 0.9512,
+            "coverage": 1.0,
+            "quality": 0.7465
+          },
+          {
+            "tMs": 2000,
+            "interest": 0.9238,
+            "coverage": 0.98,
+            "quality": 0.691
+          },
+          {
+            "tMs": 2500,
+            "interest": 0.9702,
+            "coverage": 1.0,
+            "quality": 0.8148
+          },
+          {
+            "tMs": 3000,
+            "interest": 0.9909,
+            "coverage": 0.98,
+            "quality": 0.8975
+          },
+          {
+            "tMs": 3500,
+            "interest": 0.9318,
+            "coverage": 1.0,
+            "quality": 0.7569
+          },
+          {
+            "tMs": 4000,
+            "interest": 0.9178,
+            "coverage": 1.0,
+            "quality": 0.7161
+          },
+          {
+            "tMs": 4500,
+            "interest": 0.6712,
+            "coverage": 1.0,
+            "quality": 0.8364
+          },
+          {
+            "tMs": 5000,
+            "interest": 0.9957,
+            "coverage": 0.94,
+            "quality": 0.8356
+          },
+          {
+            "tMs": 5500,
+            "interest": 0.9823,
+            "coverage": 1.0,
+            "quality": 0.9191
+          },
+          {
+            "tMs": 6000,
+            "interest": 0.9716,
+            "coverage": 1.0,
+            "quality": 0.7064
+          },
+          {
+            "tMs": 6500,
+            "interest": 0.9974,
+            "coverage": 0.98,
+            "quality": 0.8501
+          },
+          {
+            "tMs": 7000,
+            "interest": 0.9868,
+            "coverage": 0.98,
+            "quality": 0.7883
+          },
+          {
+            "tMs": 7500,
+            "interest": 0.0,
+            "coverage": 0.98,
+            "quality": 0.7407
+          },
+          {
+            "tMs": 8000,
+            "interest": 1.0,
+            "coverage": 1.0,
+            "quality": 0.8314
+          },
+          {
+            "tMs": 8500,
+            "interest": 0.9907,
+            "coverage": 1.0,
+            "quality": 0.8114
+          },
+          {
+            "tMs": 9000,
+            "interest": 0.9831,
+            "coverage": 0.98,
+            "quality": 0.9011
+          },
+          {
+            "tMs": 9500,
+            "interest": 0.9491,
+            "coverage": 1.0,
+            "quality": 0.7728
+          },
+          {
+            "tMs": 10000,
+            "interest": 0.8283,
+            "coverage": 1.0,
+            "quality": 0.6858
+          },
+          {
+            "tMs": 10500,
+            "interest": 0.2317,
+            "coverage": 1.0,
+            "quality": 0.799
+          },
+          {
+            "tMs": 11000,
+            "interest": 0.9681,
+            "coverage": 0.96,
+            "quality": 0.8192
+          },
+          {
+            "tMs": 11500,
+            "interest": 0.9974,
+            "coverage": 1.0,
+            "quality": 0.8971
+          },
+          {
+            "tMs": 12000,
+            "interest": 0.8393,
+            "coverage": 1.0,
+            "quality": 0.7065
+          },
+          {
+            "tMs": 12500,
+            "interest": 0.4342,
+            "coverage": 1.0,
+            "quality": 0.8386
+          },
+          {
+            "tMs": 13000,
+            "interest": 0.9519,
+            "coverage": 1.0,
+            "quality": 0.958
+          },
+          {
+            "tMs": 13500,
+            "interest": 0.9817,
+            "coverage": 1.0,
+            "quality": 0.797
+          },
+          {
+            "tMs": 14000,
+            "interest": 0.9765,
+            "coverage": 1.0,
+            "quality": 0.7019
+          },
+          {
+            "tMs": 14500,
+            "interest": 0.6546,
+            "coverage": 1.0,
+            "quality": 0.8382
+          },
+          {
+            "tMs": 15000,
+            "interest": 0.8008,
+            "coverage": 1.0,
+            "quality": 0.9771
+          },
+          {
+            "tMs": 15500,
+            "interest": 0.9843,
+            "coverage": 0.96,
+            "quality": 0.6381
+          },
+          {
+            "tMs": 16000,
+            "interest": 1.0,
+            "coverage": 1.0,
+            "quality": 0.7797
+          },
+          {
+            "tMs": 16500,
+            "interest": 0.7607,
+            "coverage": 1.0,
+            "quality": 0.7213
+          },
+          {
+            "tMs": 17000,
+            "interest": 0.9932,
+            "coverage": 0.96,
+            "quality": 0.8356
+          },
+          {
+            "tMs": 17500,
+            "interest": 0.9625,
+            "coverage": 1.0,
+            "quality": 0.8234
+          },
+          {
+            "tMs": 18000,
+            "interest": 0.6998,
+            "coverage": 1.0,
+            "quality": 0.7377
+          },
+          {
+            "tMs": 18500,
+            "interest": 0.6093,
+            "coverage": 0.98,
+            "quality": 0.7436
+          },
+          {
+            "tMs": 19000,
+            "interest": 0.9966,
+            "coverage": 0.98,
+            "quality": 0.9219
+          },
+          {
+            "tMs": 19500,
+            "interest": 0.9904,
+            "coverage": 1.0,
+            "quality": 0.7509
+          },
+          {
+            "tMs": 20000,
+            "interest": 0.9817,
+            "coverage": 0.98,
+            "quality": 0.6665
+          },
+          {
+            "tMs": 20500,
+            "interest": 0.9883,
+            "coverage": 1.0,
+            "quality": 0.8224
+          },
+          {
+            "tMs": 21000,
+            "interest": 0.9859,
+            "coverage": 0.98,
+            "quality": 0.7757
+          },
+          {
+            "tMs": 21500,
+            "interest": 0.0595,
+            "coverage": 0.98,
+            "quality": 0.8285
+          },
+          {
+            "tMs": 22000,
+            "interest": 1.0,
+            "coverage": 1.0,
+            "quality": 0.6546
+          },
+          {
+            "tMs": 22500,
+            "interest": 0.8798,
+            "coverage": 1.0,
+            "quality": 0.6965
+          },
+          {
+            "tMs": 23000,
+            "interest": 0.9933,
+            "coverage": 0.98,
+            "quality": 0.7498
+          },
+          {
+            "tMs": 23500,
+            "interest": 0.7939,
+            "coverage": 1.0,
+            "quality": 0.8386
+          },
+          {
+            "tMs": 24000,
+            "interest": 0.9883,
+            "coverage": 0.96,
+            "quality": 0.8177
+          },
+          {
+            "tMs": 24500,
+            "interest": 0.9894,
+            "coverage": 1.0,
+            "quality": 0.8239
+          },
+          {
+            "tMs": 25000,
+            "interest": 0.9641,
+            "coverage": 0.98,
+            "quality": 0.9086
+          },
+          {
+            "tMs": 25500,
+            "interest": 0.999,
+            "coverage": 1.0,
+            "quality": 0.7868
+          },
+          {
+            "tMs": 26000,
+            "interest": 0.9592,
+            "coverage": 0.96,
+            "quality": 0.8214
+          },
+          {
+            "tMs": 26500,
+            "interest": 0.9784,
+            "coverage": 1.0,
+            "quality": 0.8249
+          },
+          {
+            "tMs": 27000,
+            "interest": 0.9934,
+            "coverage": 1.0,
+            "quality": 0.8872
+          },
+          {
+            "tMs": 27500,
+            "interest": 0.9888,
+            "coverage": 1.0,
+            "quality": 0.7341
+          },
+          {
+            "tMs": 28000,
+            "interest": 0.7529,
+            "coverage": 1.0,
+            "quality": 0.8141
+          },
+          {
+            "tMs": 28500,
+            "interest": 0.4366,
+            "coverage": 0.98,
+            "quality": 0.742
+          },
+          {
+            "tMs": 29000,
+            "interest": 0.9843,
+            "coverage": 0.96,
+            "quality": 0.836
+          },
+          {
+            "tMs": 29500,
+            "interest": 0.9989,
+            "coverage": 1.0,
+            "quality": 0.7859
+          },
+          {
+            "tMs": 30000,
+            "interest": 0.8572,
+            "coverage": 1.0,
+            "quality": 0.832
+          },
+          {
+            "tMs": 30500,
+            "interest": 0.0,
+            "coverage": 0.98,
+            "quality": 0.7476
+          },
+          {
+            "tMs": 31000,
+            "interest": 0.9934,
+            "coverage": 0.92,
+            "quality": 0.8239
+          },
+          {
+            "tMs": 31500,
+            "interest": 0.9949,
+            "coverage": 1.0,
+            "quality": 0.9772
+          },
+          {
+            "tMs": 32000,
+            "interest": 0.9529,
+            "coverage": 1.0,
+            "quality": 0.7498
+          },
+          {
+            "tMs": 32500,
+            "interest": 0.877,
+            "coverage": 0.98,
+            "quality": 0.8499
+          },
+          {
+            "tMs": 33000,
+            "interest": 0.9979,
+            "coverage": 1.0,
+            "quality": 0.8232
+          },
+          {
+            "tMs": 33500,
+            "interest": 0.3733,
+            "coverage": 1.0,
+            "quality": 0.8513
+          },
+          {
+            "tMs": 34000,
+            "interest": 0.9803,
+            "coverage": 0.96,
+            "quality": 0.8262
+          },
+          {
+            "tMs": 34500,
+            "interest": 0.8982,
+            "coverage": 1.0,
+            "quality": 0.8101
+          },
+          {
+            "tMs": 35000,
+            "interest": 0.9965,
+            "coverage": 1.0,
+            "quality": 0.8708
+          }
+        ]
+      },
+      {
+        "exposureId": "bf3ea80f-cfe5-44f4-b09d-d1e874b554ec",
+        "sessionId": "e10ffa8e-9e50-4b80-9fb0-a1ddbe002561",
+        "participantId": "5684d249-5899-44bf-a3cc-667647b781ad",
+        "videoId": "DXep5Jnk2p5",
+        "slug": "alanna_studyhacks_DXep5Jnk2p5",
+        "title": "alanna.studyhacks random #15",
+        "contentType": "instagram_reel",
+        "feedPosition": 9,
+        "startedAtMs": 1782627743682,
+        "endedAtMs": 1782627749859,
+        "dwellMs": 6177,
+        "watchMs": 5925,
+        "pctWatched": 0.1155,
+        "durationMs": 51300,
+        "videoKey": "DXep5Jnk2p5.mp4",
+        "videoUrl": "/api/replay-video/DXep5Jnk2p5.mp4",
+        "interest": 1.0,
+        "thetaBeta": 0.0693,
+        "coverage": 0.9924,
+        "quality": 0.878,
+        "samples": [
+          {
+            "tMs": 0,
+            "interest": 0.6389,
+            "coverage": 1.0,
+            "quality": 0.9662
+          },
+          {
+            "tMs": 500,
+            "interest": 0.0,
+            "coverage": 0.98,
+            "quality": 0.7818
+          },
+          {
+            "tMs": 1000,
+            "interest": 0.987,
+            "coverage": 1.0,
+            "quality": 0.686
+          },
+          {
+            "tMs": 1500,
+            "interest": 0.8987,
+            "coverage": 0.98,
+            "quality": 0.8355
+          },
+          {
+            "tMs": 2000,
+            "interest": 0.9978,
+            "coverage": 1.0,
+            "quality": 0.8817
+          },
+          {
+            "tMs": 2500,
+            "interest": 0.0,
+            "coverage": 0.98,
+            "quality": 0.7846
+          },
+          {
+            "tMs": 3000,
+            "interest": 0.3519,
+            "coverage": 1.0,
+            "quality": 0.7256
+          },
+          {
+            "tMs": 3500,
+            "interest": 0.2765,
+            "coverage": 0.94,
+            "quality": 0.9116
+          },
+          {
+            "tMs": 4000,
+            "interest": 0.9976,
+            "coverage": 1.0,
+            "quality": 0.8146
+          },
+          {
+            "tMs": 4500,
+            "interest": 0.7918,
+            "coverage": 0.96,
+            "quality": 0.6563
+          },
+          {
+            "tMs": 5000,
+            "interest": 0.9975,
+            "coverage": 1.0,
+            "quality": 0.7839
+          },
+          {
+            "tMs": 5500,
+            "interest": 0.77,
+            "coverage": 0.98,
+            "quality": 0.7794
+          },
+          {
+            "tMs": 6000,
+            "interest": 0.8233,
+            "coverage": 1.0,
+            "quality": 0.9398
+          }
+        ]
+      },
+      {
+        "exposureId": "ab377a91-347e-4a5d-a581-a09015db51c2",
+        "sessionId": "e10ffa8e-9e50-4b80-9fb0-a1ddbe002561",
+        "participantId": "5684d249-5899-44bf-a3cc-667647b781ad",
+        "videoId": "7566375028284017933",
+        "slug": "jess_learnspanish_7566375028284017933",
+        "title": "jess.learnspanish random #12",
+        "contentType": "tiktok_video",
+        "feedPosition": 10,
+        "startedAtMs": 1782627749860,
+        "endedAtMs": 1782627752682,
+        "dwellMs": 2822,
+        "watchMs": 2443,
+        "pctWatched": 0.2604,
+        "durationMs": 9000,
+        "videoKey": "7566375028284017933.mp4",
+        "videoUrl": "/api/replay-video/7566375028284017933.mp4",
+        "interest": 0.9811,
+        "thetaBeta": 0.124,
+        "coverage": 1.0,
+        "quality": 0.8408,
+        "samples": [
+          {
+            "tMs": 0,
+            "interest": 0.6365,
+            "coverage": 1.0,
+            "quality": 0.8619
+          },
+          {
+            "tMs": 500,
+            "interest": 0.9949,
+            "coverage": 1.0,
+            "quality": 0.8454
+          },
+          {
+            "tMs": 1000,
+            "interest": 0.0312,
+            "coverage": 0.98,
+            "quality": 0.8779
+          },
+          {
+            "tMs": 1500,
+            "interest": 0.6721,
+            "coverage": 1.0,
+            "quality": 0.8438
+          },
+          {
+            "tMs": 2000,
+            "interest": 0.4913,
+            "coverage": 0.98,
+            "quality": 0.747
+          },
+          {
+            "tMs": 2500,
+            "interest": 0.9994,
+            "coverage": 1.0,
+            "quality": 0.811
+          }
+        ]
+      },
+      {
+        "exposureId": "1da12604-f5b2-49c2-bb3b-131ea3807e3b",
+        "sessionId": "e10ffa8e-9e50-4b80-9fb0-a1ddbe002561",
+        "participantId": "5684d249-5899-44bf-a3cc-667647b781ad",
+        "videoId": "7568969967895448863",
+        "slug": "connor_learningspanish_7568969967895448863",
+        "title": "connor.learningspanish random #4",
+        "contentType": "tiktok_video",
+        "feedPosition": 11,
+        "startedAtMs": 1782627752683,
+        "endedAtMs": 1782627756301,
+        "dwellMs": 3618,
+        "watchMs": 3444,
+        "pctWatched": 0.4802,
+        "durationMs": 7000,
+        "videoKey": "7568969967895448863.mp4",
+        "videoUrl": "/api/replay-video/7568969967895448863.mp4",
+        "interest": 0.9763,
+        "thetaBeta": 0.1379,
+        "coverage": 0.995,
+        "quality": 0.7937,
+        "samples": [
+          {
+            "tMs": 0,
+            "interest": 0.9892,
+            "coverage": 0.98,
+            "quality": 0.7266
+          },
+          {
+            "tMs": 500,
+            "interest": 0.591,
+            "coverage": 1.0,
+            "quality": 0.8239
+          },
+          {
+            "tMs": 1000,
+            "interest": 0.9941,
+            "coverage": 1.0,
+            "quality": 0.8928
+          },
+          {
+            "tMs": 1500,
+            "interest": 0.5879,
+            "coverage": 1.0,
+            "quality": 0.8387
+          },
+          {
+            "tMs": 2000,
+            "interest": 0.9644,
+            "coverage": 0.98,
+            "quality": 0.7393
+          },
+          {
+            "tMs": 2500,
+            "interest": 0.9658,
+            "coverage": 1.0,
+            "quality": 0.8746
+          },
+          {
+            "tMs": 3000,
+            "interest": 1.0,
+            "coverage": 0.96,
+            "quality": 0.8226
+          },
+          {
+            "tMs": 3500,
+            "interest": 0.998,
+            "coverage": 1.0,
+            "quality": 0.7321
+          }
+        ]
+      },
+      {
+        "exposureId": "2846ef07-0661-43a4-a87b-e1f050108745",
+        "sessionId": "e10ffa8e-9e50-4b80-9fb0-a1ddbe002561",
+        "participantId": "5684d249-5899-44bf-a3cc-667647b781ad",
+        "videoId": "DXuYaAEArs4",
+        "slug": "jess_studytips_DXuYaAEArs4",
+        "title": "jess.studytips random #2",
+        "contentType": "instagram_reel",
+        "feedPosition": 12,
+        "startedAtMs": 1782627756302,
+        "endedAtMs": 1782627759534,
+        "dwellMs": 3232,
+        "watchMs": 2937,
+        "pctWatched": 0.0434,
+        "durationMs": 67600,
+        "videoKey": "DXuYaAEArs4.mp4",
+        "videoUrl": "/api/replay-video/DXuYaAEArs4.mp4",
+        "interest": 0.981,
+        "thetaBeta": 0.1242,
+        "coverage": 0.9963,
+        "quality": 0.8349,
+        "samples": [
+          {
+            "tMs": 0,
+            "interest": 0.8421,
+            "coverage": 0.98,
+            "quality": 0.8379
+          },
+          {
+            "tMs": 500,
+            "interest": 0.998,
+            "coverage": 1.0,
+            "quality": 0.8832
+          },
+          {
+            "tMs": 1000,
+            "interest": 0.9273,
+            "coverage": 0.96,
+            "quality": 0.8027
+          },
+          {
+            "tMs": 1500,
+            "interest": 0.9945,
+            "coverage": 1.0,
+            "quality": 0.8311
+          },
+          {
+            "tMs": 2000,
+            "interest": 0.617,
+            "coverage": 1.0,
+            "quality": 0.7493
+          },
+          {
+            "tMs": 2500,
+            "interest": 0.7385,
+            "coverage": 0.98,
+            "quality": 0.8613
+          },
+          {
+            "tMs": 3000,
+            "interest": 0.9815,
+            "coverage": 1.0,
+            "quality": 0.7395
+          }
+        ]
+      },
+      {
+        "exposureId": "463d51b2-d004-47ec-922f-5540b1c3eaab",
+        "sessionId": "e10ffa8e-9e50-4b80-9fb0-a1ddbe002561",
+        "participantId": "5684d249-5899-44bf-a3cc-667647b781ad",
+        "videoId": "7592455234971094327",
+        "slug": "kayla_learnspanish_7592455234971094327",
+        "title": "kayla.learnspanish random #9",
+        "contentType": "tiktok_video",
+        "feedPosition": 13,
+        "startedAtMs": 1782627759535,
+        "endedAtMs": 1782627761099,
+        "dwellMs": 1564,
+        "watchMs": 1447,
+        "pctWatched": 0.2425,
+        "durationMs": 5000,
+        "videoKey": "7592455234971094327.mp4",
+        "videoUrl": "/api/replay-video/7592455234971094327.mp4",
+        "interest": 0.9381,
+        "thetaBeta": 0.2484,
+        "coverage": 0.991,
+        "quality": 0.7734,
+        "samples": [
+          {
+            "tMs": 0,
+            "interest": 0.9629,
+            "coverage": 0.98,
+            "quality": 0.6879
+          },
+          {
+            "tMs": 500,
+            "interest": 0.9907,
+            "coverage": 1.0,
+            "quality": 0.8257
+          },
+          {
+            "tMs": 1000,
+            "interest": 0.9536,
+            "coverage": 0.96,
+            "quality": 0.8163
+          },
+          {
+            "tMs": 1500,
+            "interest": 0.9637,
+            "coverage": 1.0,
+            "quality": 0.8041
+          }
+        ]
+      },
+      {
+        "exposureId": "1310322f-653c-4f8c-9191-c97133222e85",
+        "sessionId": "e10ffa8e-9e50-4b80-9fb0-a1ddbe002561",
+        "participantId": "5684d249-5899-44bf-a3cc-667647b781ad",
+        "videoId": "7630324961634159886",
+        "slug": "jess_learnspanish_7630324961634159886",
+        "title": "jess.learnspanish random #18",
+        "contentType": "tiktok_video",
+        "feedPosition": 14,
+        "startedAtMs": 1782627761100,
+        "endedAtMs": 1782627764883,
+        "dwellMs": 3783,
+        "watchMs": 3435,
+        "pctWatched": 0.5822,
+        "durationMs": 5000,
+        "videoKey": "7630324961634159886.mp4",
+        "videoUrl": "/api/replay-video/7630324961634159886.mp4",
+        "interest": 0.9499,
+        "thetaBeta": 0.214,
+        "coverage": 0.9886,
+        "quality": 0.7786,
+        "samples": [
+          {
+            "tMs": 0,
+            "interest": 0.0,
+            "coverage": 0.98,
+            "quality": 0.7805
+          },
+          {
+            "tMs": 500,
+            "interest": 0.9875,
+            "coverage": 0.98,
+            "quality": 0.8262
+          },
+          {
+            "tMs": 1000,
+            "interest": 0.9919,
+            "coverage": 1.0,
+            "quality": 0.7054
+          },
+          {
+            "tMs": 1500,
+            "interest": 0.9868,
+            "coverage": 0.98,
+            "quality": 0.8337
+          },
+          {
+            "tMs": 2000,
+            "interest": 0.8922,
+            "coverage": 1.0,
+            "quality": 0.8476
+          },
+          {
+            "tMs": 2500,
+            "interest": 0.9957,
+            "coverage": 0.96,
+            "quality": 0.8446
+          },
+          {
+            "tMs": 3000,
+            "interest": 0.9814,
+            "coverage": 1.0,
+            "quality": 0.8774
+          },
+          {
+            "tMs": 3500,
+            "interest": 0.9971,
+            "coverage": 1.0,
+            "quality": 0.8583
+          }
+        ]
+      },
+      {
+        "exposureId": "d0096319-55a2-4cb8-b6be-38707a69d339",
+        "sessionId": "e10ffa8e-9e50-4b80-9fb0-a1ddbe002561",
+        "participantId": "5684d249-5899-44bf-a3cc-667647b781ad",
+        "videoId": "7566486002408164638",
+        "slug": "ana_learningspanish_7566486002408164638",
+        "title": "ana.learningspanish top #9",
+        "contentType": "tiktok_video",
+        "feedPosition": 15,
+        "startedAtMs": 1782627764884,
+        "endedAtMs": 1782627766504,
+        "dwellMs": 1620,
+        "watchMs": 1439,
+        "pctWatched": 0.0447,
+        "durationMs": 32000,
+        "videoKey": "7566486002408164638.mp4",
+        "videoUrl": "/api/replay-video/7566486002408164638.mp4",
+        "interest": 0.9413,
+        "thetaBeta": 0.239,
+        "coverage": 1.0,
+        "quality": 0.9226,
+        "samples": [
+          {
+            "tMs": 0,
+            "interest": 0.9229,
+            "coverage": 1.0,
+            "quality": 0.8762
+          },
+          {
+            "tMs": 500,
+            "interest": 0.836,
+            "coverage": 0.98,
+            "quality": 0.831
+          },
+          {
+            "tMs": 1000,
+            "interest": 0.9821,
+            "coverage": 1.0,
+            "quality": 0.8139
+          },
+          {
+            "tMs": 1500,
+            "interest": 0.4761,
+            "coverage": 1.0,
+            "quality": 0.8839
+          }
+        ]
+      },
+      {
+        "exposureId": "9c7b703e-983e-4d01-9872-ddccd86efa54",
+        "sessionId": "e10ffa8e-9e50-4b80-9fb0-a1ddbe002561",
+        "participantId": "5684d249-5899-44bf-a3cc-667647b781ad",
+        "videoId": "DY3mwwKE7U9",
+        "slug": "dean_studytips_DY3mwwKE7U9",
+        "title": "dean.studytips random #12",
+        "contentType": "instagram_reel",
+        "feedPosition": 16,
+        "startedAtMs": 1782627766505,
+        "endedAtMs": 1782627771017,
+        "dwellMs": 4512,
+        "watchMs": 3942,
+        "pctWatched": 0.1874,
+        "durationMs": 21033,
+        "videoKey": "DY3mwwKE7U9.mp4",
+        "videoUrl": "/api/replay-video/DY3mwwKE7U9.mp4",
+        "interest": 0.667,
+        "thetaBeta": 1.0318,
+        "coverage": 0.9863,
+        "quality": 0.8737,
+        "samples": [
+          {
+            "tMs": 0,
+            "interest": 0.9764,
+            "coverage": 0.98,
+            "quality": 0.7528
+          },
+          {
+            "tMs": 500,
+            "interest": 0.5346,
+            "coverage": 1.0,
+            "quality": 0.8817
+          },
+          {
+            "tMs": 1000,
+            "interest": 0.971,
+            "coverage": 0.98,
+            "quality": 0.8323
+          },
+          {
+            "tMs": 1500,
+            "interest": 0.991,
+            "coverage": 1.0,
+            "quality": 0.8478
+          },
+          {
+            "tMs": 2000,
+            "interest": 0.9908,
+            "coverage": 0.98,
+            "quality": 0.7429
+          },
+          {
+            "tMs": 2500,
+            "interest": 0.751,
+            "coverage": 1.0,
+            "quality": 0.8751
+          },
+          {
+            "tMs": 3000,
+            "interest": 0.9739,
+            "coverage": 0.98,
+            "quality": 0.8197
+          },
+          {
+            "tMs": 3500,
+            "interest": 0.2909,
+            "coverage": 1.0,
+            "quality": 0.7696
+          },
+          {
+            "tMs": 4000,
+            "interest": 0.9873,
+            "coverage": 0.98,
+            "quality": 0.8638
+          },
+          {
+            "tMs": 4500,
+            "interest": 0.9895,
+            "coverage": 1.0,
+            "quality": 0.7846
+          }
+        ]
+      },
+      {
+        "exposureId": "9e1ad6ea-fe24-487a-94ab-fbe8cd96c003",
+        "sessionId": "e10ffa8e-9e50-4b80-9fb0-a1ddbe002561",
+        "participantId": "5684d249-5899-44bf-a3cc-667647b781ad",
+        "videoId": "7596109008088354061",
+        "slug": "kayla_learnspanish_7596109008088354061",
+        "title": "kayla.learnspanish top #7",
+        "contentType": "tiktok_video",
+        "feedPosition": 17,
+        "startedAtMs": 1782627771018,
+        "endedAtMs": 1782627773131,
+        "dwellMs": 2113,
+        "watchMs": 1938,
+        "pctWatched": 0.3247,
+        "durationMs": 5000,
+        "videoKey": "7596109008088354061.mp4",
+        "videoUrl": "/api/replay-video/7596109008088354061.mp4",
+        "interest": 0.9725,
+        "thetaBeta": 0.1488,
+        "coverage": 1.0,
+        "quality": 0.8496,
+        "samples": [
+          {
+            "tMs": 0,
+            "interest": 0.9827,
+            "coverage": 1.0,
+            "quality": 0.7583
+          },
+          {
+            "tMs": 500,
+            "interest": 0.8954,
+            "coverage": 1.0,
+            "quality": 0.9739
+          },
+          {
+            "tMs": 1000,
+            "interest": 0.964,
+            "coverage": 0.96,
+            "quality": 0.7218
+          },
+          {
+            "tMs": 1500,
+            "interest": 1.0,
+            "coverage": 1.0,
+            "quality": 0.8158
+          },
+          {
+            "tMs": 2000,
+            "interest": 0.7112,
+            "coverage": 0.98,
+            "quality": 0.8263
+          }
+        ]
+      },
+      {
+        "exposureId": "5c51b30d-2eda-4249-b9dc-53bb64e7094d",
+        "sessionId": "e10ffa8e-9e50-4b80-9fb0-a1ddbe002561",
+        "participantId": "5684d249-5899-44bf-a3cc-667647b781ad",
+        "videoId": "sponsor_cursor",
+        "slug": "sponsor_cursor",
+        "title": "Cursor",
+        "contentType": "b2b",
+        "feedPosition": 18,
+        "startedAtMs": 1782627773133,
+        "endedAtMs": 1782627787954,
+        "dwellMs": 14821,
+        "watchMs": 14429,
+        "pctWatched": 0.2239,
+        "durationMs": 64434,
+        "videoKey": "Cursor.mp4",
+        "videoUrl": "/api/replay-video/Cursor.mp4",
+        "interest": 0.9371,
+        "thetaBeta": 0.251,
+        "coverage": 0.9952,
+        "quality": 0.7584,
+        "samples": [
+          {
+            "tMs": 0,
+            "interest": 0.9784,
+            "coverage": 1.0,
+            "quality": 0.8462
+          },
+          {
+            "tMs": 500,
+            "interest": 0.9631,
+            "coverage": 0.94,
+            "quality": 0.8118
+          },
+          {
+            "tMs": 1000,
+            "interest": 0.9943,
+            "coverage": 1.0,
+            "quality": 0.7826
+          },
+          {
+            "tMs": 1500,
+            "interest": 0.7326,
+            "coverage": 1.0,
+            "quality": 0.8663
+          },
+          {
+            "tMs": 2000,
+            "interest": 0.8505,
+            "coverage": 0.94,
+            "quality": 0.8082
+          },
+          {
+            "tMs": 2500,
+            "interest": 0.9994,
+            "coverage": 1.0,
+            "quality": 0.8328
+          },
+          {
+            "tMs": 3000,
+            "interest": 0.9891,
+            "coverage": 1.0,
+            "quality": 0.8307
+          },
+          {
+            "tMs": 3500,
+            "interest": 0.9986,
+            "coverage": 0.98,
+            "quality": 0.8934
+          },
+          {
+            "tMs": 4000,
+            "interest": 0.0,
+            "coverage": 0.98,
+            "quality": 0.7648
+          },
+          {
+            "tMs": 4500,
+            "interest": 1.0,
+            "coverage": 1.0,
+            "quality": 0.8499
+          },
+          {
+            "tMs": 5000,
+            "interest": 0.7018,
+            "coverage": 0.98,
+            "quality": 0.9063
+          },
+          {
+            "tMs": 5500,
+            "interest": 0.9504,
+            "coverage": 0.94,
+            "quality": 0.8218
+          },
+          {
+            "tMs": 6000,
+            "interest": 0.9576,
+            "coverage": 1.0,
+            "quality": 0.8083
+          },
+          {
+            "tMs": 6500,
+            "interest": 0.9781,
+            "coverage": 0.98,
+            "quality": 0.9193
+          },
+          {
+            "tMs": 7000,
+            "interest": 0.9945,
+            "coverage": 1.0,
+            "quality": 0.792
+          },
+          {
+            "tMs": 7500,
+            "interest": 0.9476,
+            "coverage": 1.0,
+            "quality": 0.8154
+          },
+          {
+            "tMs": 8000,
+            "interest": 0.8005,
+            "coverage": 1.0,
+            "quality": 0.7464
+          },
+          {
+            "tMs": 8500,
+            "interest": 0.9356,
+            "coverage": 0.96,
+            "quality": 0.8303
+          },
+          {
+            "tMs": 9000,
+            "interest": 0.9878,
+            "coverage": 0.96,
+            "quality": 0.6923
+          },
+          {
+            "tMs": 9500,
+            "interest": 0.9988,
+            "coverage": 1.0,
+            "quality": 0.7036
+          },
+          {
+            "tMs": 10000,
+            "interest": 0.9408,
+            "coverage": 0.98,
+            "quality": 0.7095
+          },
+          {
+            "tMs": 10500,
+            "interest": 1.0,
+            "coverage": 1.0,
+            "quality": 0.8302
+          },
+          {
+            "tMs": 11000,
+            "interest": 0.928,
+            "coverage": 1.0,
+            "quality": 0.6792
+          },
+          {
+            "tMs": 11500,
+            "interest": 0.9974,
+            "coverage": 0.98,
+            "quality": 0.6268
+          },
+          {
+            "tMs": 12000,
+            "interest": 0.9855,
+            "coverage": 1.0,
+            "quality": 0.7574
+          },
+          {
+            "tMs": 12500,
+            "interest": 1.0,
+            "coverage": 0.98,
+            "quality": 0.8784
+          },
+          {
+            "tMs": 13000,
+            "interest": 0.9478,
+            "coverage": 1.0,
+            "quality": 0.6662
+          },
+          {
+            "tMs": 13500,
+            "interest": 0.9128,
+            "coverage": 1.0,
+            "quality": 0.5433
+          },
+          {
+            "tMs": 14000,
+            "interest": 0.0,
+            "coverage": 1.0,
+            "quality": 0.7953
+          },
+          {
+            "tMs": 14500,
+            "interest": 1.0,
+            "coverage": 0.94,
+            "quality": 0.8008
+          }
+        ]
+      },
+      {
+        "exposureId": "2263b048-6e88-407b-8840-05641a928ec4",
+        "sessionId": "e10ffa8e-9e50-4b80-9fb0-a1ddbe002561",
+        "participantId": "5684d249-5899-44bf-a3cc-667647b781ad",
+        "videoId": "DZs1qkljOQi",
+        "slug": "jess_studytips_DZs1qkljOQi",
+        "title": "jess.studytips random #17",
+        "contentType": "instagram_reel",
+        "feedPosition": 19,
+        "startedAtMs": 1782627787956,
+        "endedAtMs": 1782627790081,
+        "dwellMs": 2125,
+        "watchMs": 1937,
+        "pctWatched": 0.0367,
+        "durationMs": 52700,
+        "videoKey": "DZs1qkljOQi.mp4",
+        "videoUrl": "/api/replay-video/DZs1qkljOQi.mp4",
+        "interest": 1.0,
+        "thetaBeta": 0.0206,
+        "coverage": 0.9976,
+        "quality": 0.863,
+        "samples": [
+          {
+            "tMs": 0,
+            "interest": 0.9825,
+            "coverage": 1.0,
+            "quality": 0.7242
+          },
+          {
+            "tMs": 500,
+            "interest": 0.0,
+            "coverage": 0.98,
+            "quality": 0.8385
+          },
+          {
+            "tMs": 1000,
+            "interest": 0.0194,
+            "coverage": 1.0,
+            "quality": 0.7784
+          },
+          {
+            "tMs": 1500,
+            "interest": 0.9406,
+            "coverage": 0.98,
+            "quality": 0.7945
+          },
+          {
+            "tMs": 2000,
+            "interest": 0.9982,
+            "coverage": 1.0,
+            "quality": 0.872
+          }
+        ]
+      },
+      {
+        "exposureId": "63961ff3-3b22-419a-a7ac-15055039ad58",
+        "sessionId": "e10ffa8e-9e50-4b80-9fb0-a1ddbe002561",
+        "participantId": "5684d249-5899-44bf-a3cc-667647b781ad",
+        "videoId": "7597904337477618975",
+        "slug": "jess_learnspanish_7597904337477618975",
+        "title": "jess.learnspanish random #7",
+        "contentType": "tiktok_video",
+        "feedPosition": 20,
+        "startedAtMs": 1782627790084,
+        "endedAtMs": 1782627792471,
+        "dwellMs": 2387,
+        "watchMs": 1943,
+        "pctWatched": 0.3429,
+        "durationMs": 5000,
+        "videoKey": "7597904337477618975.mp4",
+        "videoUrl": "/api/replay-video/7597904337477618975.mp4",
+        "interest": 0.0,
+        "thetaBeta": 2.9595,
+        "coverage": 0.9971,
+        "quality": 0.6368,
+        "samples": [
+          {
+            "tMs": 0,
+            "interest": 0.9906,
+            "coverage": 1.0,
+            "quality": 0.7399
+          },
+          {
+            "tMs": 500,
+            "interest": 0.9275,
+            "coverage": 0.98,
+            "quality": 0.6259
+          },
+          {
+            "tMs": 1000,
+            "interest": 0.9971,
+            "coverage": 1.0,
+            "quality": 0.7633
+          },
+          {
+            "tMs": 1500,
+            "interest": 0.7161,
+            "coverage": 1.0,
+            "quality": 0.8805
+          },
+          {
+            "tMs": 2000,
+            "interest": 0.0,
+            "coverage": 0.98,
+            "quality": 0.6643
+          }
+        ]
+      }
+    ]
+  }
+]
