@@ -14,12 +14,13 @@ Advertisers and creators have **no way to know if content will land before they 
 
 ## Screenshots
 
-| EEG waveform | Video feed | Report |
-|:---:|:---:|:---:|
-| ![EEG waveform](docs/screenshots/eeg-waveform.png) | ![Video feed](docs/screenshots/feed.png) | ![Report](docs/screenshots/report.png) |
+**Live analysis — predicted theta/beta interest waveform + GTM strategist (OpenAI + Orange Slice):**
 
-<!-- TODO: drop the three images into docs/screenshots/ with these exact filenames.
-     Neuro projects live or die on "show me the waveform" — these matter as much as the demo. -->
+![Live analysis dashboard](docs/screenshots/analysis.png)
+
+| Watching with the EEG on | Fitting the EEG rig |
+|:---:|:---:|
+| ![In-app, EEG headset on](docs/screenshots/in-use.png) | ![Fitting the EEG electrodes](docs/screenshots/eeg-setup.jpg) |
 
 ## Tech Stack
 
