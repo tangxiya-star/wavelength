@@ -37,7 +37,6 @@ Advertisers and creators have **no way to know if content will land before they 
 | Sponsor | How we use it |
 |---|---|
 | **OpenAI** | Neuro-marketing "decode" chat — streams a plain-language explanation of *why* a clip spiked interest from its characteristics + EEG curve (`frontend/lib/openai.ts`). |
-| **Anthropic / Claude** | AI-UGC retention judge — scores sponsor/product ads with *"does this ad retain?"* against the locked stimulus set (`model/run_sponsor_report.py`). |
 | **Orange Slice** | GTM integration — turns an EEG interest spike into a go-to-market brief (hooks + target persona) and stores it as a reusable Orange Slice skill (`scripts/orangeslice/gtm.mjs`). |
 
 ## Structure
