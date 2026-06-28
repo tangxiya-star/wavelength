@@ -4,9 +4,13 @@
 
 ### 🎥 Demo
 
-**[▶ Watch the 60s demo](REPLACE_WITH_DEMO_VIDEO_URL)** · **[🌐 Live app](https://wavelength-teal.vercel.app/live)**
+| ▶ Watch the 60s demo | 🌐 Try the live app |
+|:---:|:---:|
+| [![Watch the 60s demo](docs/screenshots/demo-thumb.png)](REPLACE_WITH_DEMO_VIDEO_URL) | [![Open the live app](docs/screenshots/live-thumb.png)](https://wavelength-teal.vercel.app/live) |
+| **[▶ Watch the 60s demo](REPLACE_WITH_DEMO_VIDEO_URL)** | **[🌐 wavelength-teal.vercel.app/live](https://wavelength-teal.vercel.app/live)** |
 
-<!-- TODO: paste a YouTube/Loom demo link above. Judges won't clone — the demo video is the single highest-value line in the README. -->
+<!-- TODO: paste a YouTube/Loom demo link in both REPLACE_WITH_DEMO_VIDEO_URL spots above.
+     The demo video is the single highest-value link in the README. -->
 
 ## The Problem
 
