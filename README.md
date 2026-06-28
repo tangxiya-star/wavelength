@@ -18,9 +18,9 @@ Advertisers and creators have **no way to know if content will land before they 
 
 ![Live analysis dashboard](docs/screenshots/analysis.png)
 
-| Watching with the EEG on | Fitting the EEG rig |
+| Collecting EEG data while watching | Fitting the EEG rig before a session |
 |:---:|:---:|
-| ![In-app, EEG headset on](docs/screenshots/in-use.png) | ![Fitting the EEG electrodes](docs/screenshots/eeg-setup.jpg) |
+| ![Collecting EEG data — headset on, watching the feed](docs/screenshots/in-use.png) | ![Fitting the EEG electrodes to collect data](docs/screenshots/eeg-setup.jpg) |
 
 ## Tech Stack
 
