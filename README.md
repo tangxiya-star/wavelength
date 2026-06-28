@@ -4,9 +4,9 @@
 
 ### 🎥 Demo
 
-**[▶ Watch the 60s demo](REPLACE_WITH_DEMO_VIDEO_URL)** · **[🌐 Live app](REPLACE_WITH_LIVE_URL)**
+**[▶ Watch the 60s demo](REPLACE_WITH_DEMO_VIDEO_URL)** · **[🌐 Live app](https://wavelength-teal.vercel.app/live)**
 
-<!-- TODO: paste a YouTube/Loom link + a deployed URL above. Judges won't clone — this is the single highest-value line in the README. -->
+<!-- TODO: paste a YouTube/Loom demo link above. Judges won't clone — the demo video is the single highest-value line in the README. -->
 
 ## The Problem
 
