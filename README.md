@@ -2,6 +2,25 @@
 
 > Wear an EEG, watch short-form videos, and let your own brain tell you which ones will go viral — before you spend a cent on ads.
 
+### 🎥 Demo
+
+**[▶ Watch the 60s demo](REPLACE_WITH_DEMO_VIDEO_URL)** · **[🌐 Live app](REPLACE_WITH_LIVE_URL)**
+
+<!-- TODO: paste a YouTube/Loom link + a deployed URL above. Judges won't clone — this is the single highest-value line in the README. -->
+
+## The Problem
+
+Advertisers and creators have **no way to know if content will land before they spend on it** — they ship, wait, and read the analytics after the money is gone. Wavelength reads engagement *directly off your brain*: a rising theta/beta ratio = rising interest. Watch clips with an EEG on, and we tell you which ones will go viral — and *why* — before launch.
+
+## Screenshots
+
+| EEG waveform | Video feed | Report |
+|:---:|:---:|:---:|
+| ![EEG waveform](docs/screenshots/eeg-waveform.png) | ![Video feed](docs/screenshots/feed.png) | ![Report](docs/screenshots/report.png) |
+
+<!-- TODO: drop the three images into docs/screenshots/ with these exact filenames.
+     Neuro projects live or die on "show me the waveform" — these matter as much as the demo. -->
+
 ## Tech Stack
 
 | Layer | Tech |
